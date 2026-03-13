@@ -5,8 +5,13 @@ Since infants cannot verbally communicate their discomfort, recognizing neonatal
 ## Project Output
 
 ![Output1](Screenshot (90).png)
+
 ![Output2](Screenshot 2026-03-13 160603.png)
+
 ![Output3](Screenshot 2026-03-13 165757.png)
+
 ![Output4](Screenshot 2026-03-13 170014.png)
+
 ![Output5](Screenshot 2026-03-13 170033.png)
+
 ![Output6](Screenshot 2026-03-13 170055.png)
