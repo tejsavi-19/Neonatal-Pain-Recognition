@@ -6,7 +6,6 @@ Since infants cannot verbally communicate their discomfort, recognizing neonatal
 
 ![Output1](Screenshot%20(90).png)
 
-![Output2](Screenshot%202026-03-13%20160603.png)
 
 ![Output3](Screenshot%202026-03-13%20165757.png)
 
